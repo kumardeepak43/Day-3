@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    /* flex-direction: row; */
+    flex-direction: column;
+    gap: 10px;
+}
+
+.flex-item {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+Footer
+© 2022 GitHub, Inc.
